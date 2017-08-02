@@ -1,2 +1,2 @@
 # mta-project
-Projekt serwera MTA
+Projekt serwera SAMP
